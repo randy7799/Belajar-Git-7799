@@ -1,5 +1,8 @@
 <?php
 
+// update 9 dec 09:44
+// by randy7799
+
 	require_once('lib/DBClass.php');
 	require_once('lib/m_siswa.php');
 	require_once('lib/m_nationality.php');
